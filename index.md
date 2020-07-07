@@ -3,7 +3,7 @@ Hello Everyone,
   
   * [Student Management](https://github.com/jesvinvijesh/Student_Management/tree/devolopment)
   
- Details of my project:
+ Details of my project:                                                                                                                                                             
  This project is a project to make a student management portal. If you want the project you can download the project from github.                                                              
  The lanaguages used in this project are :                                                                          
  Python          = 96 %                                                                                                                                                             
