@@ -1,3 +1,5 @@
 theme: jekyll-theme-tactile
 title: Jesvin's official Website
 logo: https://ibb.co/DRfKSfZ
+github:
+  is_project_page: false
