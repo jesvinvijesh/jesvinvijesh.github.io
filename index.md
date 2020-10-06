@@ -1,5 +1,5 @@
 Hello Everyone,                                                                               
-  My name is _**Jesvin Vijesh**_ .I am a Professional Programmer Here is a list of my projects:
+  My name is _**Jesvin Vijesh**_ .I am a Programmer Here is a list of my projects:
   
 - [Student Management](https://github.com/jesvinvijesh/Student_Management/tree/devolopment)
   
